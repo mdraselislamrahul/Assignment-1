@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "name": "Math Homework",
+        "img": "https://i.ibb.co/SxVk6hC/student.webp",
+        "requirements": {
+            "one": "Solve all problems",
+            "two": "Show all work",
+            "theree": "Submit by due date"
+        },
+        "date": "2024-08-01",
+        "description": "Complete the assigned math problems from the textbook.",
+        "mark":60
+    },
+    {
+        "id": 2,
+        "name": "Science Project",
+        "img": "https://i.ibb.co/sHWXNtV/images.jpg",
+        "requirements": {
+            "one": "Research topic",
+            "two": "Create poster",
+            "theree": "Present in class"
+        },
+        "date": "2024-08-05",
+        "description": "Conduct research and prepare a presentation on a chosen science topic.",
+        "mark":80
+    },
+    {
+        "id": 3,
+        "name": "History Essay",
+        "img": "https://i.ibb.co/vzGrfKY/images-1.jpg",
+        "requirements": {
+            "one": "Write 1000 words",
+            "two": "Cite sources",
+            "theree": "Proofread"
+        },
+        "date": "2024-08-10",
+        "description": "Write an essay on a significant historical event.",
+        "mark":50
+    },
+    {
+        "id": 4,
+        "name": "Art Assignment",
+        "img": "https://i.ibb.co/gW9ML0k/malinowski.webp",
+        "requirements": {
+            "one": "Create a painting",
+            "two": "Use mixed media",
+            "theree": "Explain inspiration"
+        },
+        "date": "2024-08-15",
+        "description": "Produce a piece of art using mixed media and provide an explanation of your inspiration.",
+        "mark":30
+    },
+    {
+        "id": 5,
+        "name": "Computer Science Lab",
+        "img": "https://i.ibb.co/KqYhLyz/images-2.jpg",
+        "requirements": {
+            "one": "Write code",
+            "two": "Test program",
+            "theree": "Submit code"
+        },
+        "date": "2024-08-20",
+        "description": "Develop a small program to solve a given problem and submit the code.",
+        "mark":60
+    },
+    {
+        "id": 6,
+        "name": "Literature Review",
+        "img": "https://i.ibb.co/HtNYYdj/Assignment-Help-2.webp",
+        "requirements": {
+            "one": "Read novel",
+            "two": "Write review",
+            "theree": "Discuss themes"
+        },
+        "date": "2024-08-25",
+        "description": "Read the assigned novel and write a review discussing its major themes.",
+        "mark":60
+    },
+    {
+        "id": 7,
+        "name": "Biology Lab Report",
+        "img": "https://i.ibb.co/g4nQ4J9/images-3.jpg",
+        "requirements": {
+            "one": "Conduct experiment",
+            "two": "Record results",
+            "theree": "Write report"
+        },
+        "date": "2024-08-30",
+        "description": "Perform a biology experiment and write a detailed lab report.",
+        "mark":80
+    },
+    {
+        "id": 8,
+        "name": "Physics Assignment",
+        "img": "https://i.ibb.co/j5yvfkT/0-tw-Me-V9faq9-Oeb-OUR.png",
+        "requirements": {
+            "one": "Solve equations",
+            "two": "Draw diagrams",
+            "theree": "Explain concepts"
+        },
+        "date": "2024-09-05",
+        "description": "Complete the physics assignment by solving the given problems and explaining key concepts.",
+        "mark":50
+    },
+    {
+        "id": 9,
+        "name": "Chemistry Homework",
+        "img": "https://i.ibb.co/4jbxhLQ/images-4.jpg",
+        "requirements": {
+            "one": "Balance equations",
+            "tow": "Explain reactions",
+            "theree": "Submit on time"
+        },
+        "date": "2024-09-10",
+        "description": "Balance the given chemical equations and explain the reactions involve.",
+        "mark":100
+    },
+    {
+        "id": 10,
+        "name": "Geography Project",
+        "img": "https://i.ibb.co/CbSGb68/images-5.jpg",
+        "requirements": {
+            "one": "Research region",
+            "two": "Create map",
+            "theree": "Present findings"
+        },
+        "date": "2024-09-15",
+        "description": "Research a geographic region, create a detailed map, and present your findings.",
+        "mark":80
+        },
+    {
+        "id": 11,
+        "name": "Music Composition",
+        "img": "https://i.ibb.co/VYZHK1X/images-6.jpg",
+        "requirements": {
+            "one": "Compose piece",
+            "two": "Record performance",
+            "theree": "Submit score"
+        },
+        "date": "2024-09-20",
+        "description": "Compose an original piece of music and record a performance of it.",
+        "mark":30
+    },
+    {
+        "id": 12,
+        "name": "Economics Essay",
+        "img": "https://i.ibb.co/DgLxyFB/Economics.webp",
+        "requirements": {
+            "one": "Analyze data",
+            "two": "Write 1500 words",
+            "theree": "Include graphs"
+        },
+        "date": "2024-09-25",
+        "description": "Write an essay analyzing economic data and include relevant graphs.",
+        "mark":50
+    },
+    {
+        "id": 13,
+        "name": "Political Science Paper",
+        "img": "https://i.ibb.co/ng702xM/images-7.jpg",
+        "requirements": {
+            "one": "Research topic",
+            "two": "Write paper",
+            "theree": "Cite references"
+        },
+        "date": "2024-09-30",
+        "description": "Write a research paper on a political science topic, citing all references.",
+        "mark":90
+    },
+    {
+        "id": 14,
+        "name": "Philosophy Discussion",
+        "img": "https://i.ibb.co/9Gd302v/images-8.jpg",
+        "requirements": {
+            "one": "Read texts",
+            "two": "Prepare arguments",
+            "theree": "Participate in discussion"
+        },
+        "date": "2024-10-05",
+        "description": "Prepare for a class discussion by reading the assigned texts and formulating arguments.",
+        "mark":40
+    },
+    {
+        "id": 15,
+        "name": "Psychology Experiment",
+        "img": "https://i.ibb.co/RNfmCD2/images-9.jpg",
+        "requirements": {
+            "one": "Design experiment",
+            "two": "Collect data",
+            "theree": "Analyze results"
+        },
+        "date": "2024-10-10",
+        "description": "Design a psychology experiment, collect data, and analyze the results.",
+        "mark":80
+    },
+    {
+        "id": 16,
+        "name": "Sociology Assignment",
+        "img": "https://i.ibb.co/qBwCDMC/images-10.jpg",
+        "requirements": {
+            "one": "Conduct survey",
+            "two": "Analyze responses",
+            "theree": "Write report"
+        },
+        "date": "2024-10-15",
+        "description": "Conduct a survey on a sociological topic and write a report on the findings.",
+        "mark":40
+    },
+    {
+        "id": 17,
+        "name": "Engineering Project",
+        "img": "https://i.ibb.co/PFhSsyr/images-11.jpg",
+        "requirements": {
+            "one": "Design model",
+            "two": "Build prototype",
+            "theree": "Test functionality"
+        },
+        "date": "2024-10-20",
+        "description": "Design and build a prototype for an engineering project and test its functionality.",
+        "mark":30
+    },
+    {
+        "id": 18,
+        "name": "Architecture Design",
+        "img": "https://i.ibb.co/t2Vqhtp/images-12.jpg",
+        "requirements": {
+            "one": "Create blueprint",
+            "two": "Build model",
+            "theree": "Present design"
+        },
+        "date": "2024-10-25",
+        "description": "Create a detailed blueprint for a building and build a scale model of your design.",
+        "mark":90
+    },
+    {
+        "id": 19,
+        "name": "Business Plan",
+        "img": "https://i.ibb.co/t2Vqhtp/images-12.jpg",
+        "requirements": {
+            "one": "Research market",
+            "two": "Develop plan",
+            "theree": "Present proposal"
+        },
+        "date": "2024-10-30",
+        "description": "Develop a comprehensive business plan and present your proposal.",
+        "mark":50
+    },
+    {
+        "id": 20,
+        "name": "Marketing Campaign",
+        "img": "https://i.ibb.co/xXcQPnz/images-14.jpg",
+        "requirements": {
+            "one": "Create strategy",
+            "two": "Design materials",
+            "theree": "Launch campaign"
+        },
+        "date": "2024-11-05",
+        "description": "Create a marketing strategy and design promotional materials for a product launch.",
+        "mark":10
+    }
+]
